@@ -1,0 +1,226 @@
+[09:06, 12/10/2024] ~: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GitHub Demo Page</title>
+</head>
+<body>
+    <header>
+        <h1>Welcome to My GitHub Page!</h1>
+    </header>
+    <main>
+        <p>This is an example of a simple website hosted on GitHub Pages.</p>
+    </main>
+    <footer>
+        <p>© 2024, My GitHub Website</p>
+    </footer>
+</body>
+</html>
+[09:10, 12/10/2024] ~: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Button Example</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 20px;
+        }
+        .button {
+            background-color: #4CAF50; /* Жасыл түс */
+            border: none;
+            color: white;
+            padding: 15px 30px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            margin: 10px 2px;
+            cursor: pointer;
+            border-radius: 5px;
+        }
+        .button:hover {
+            background-color: #45a049; /…
+[09:19, 12/10/2024] ~: https://abdrazakhabilmansu.wixsite.com/mone-1
+[09:21, 12/10/2024] ~: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Менің Өзім туралы парақшам</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            background-color: #f9f9f9;
+            margin: 0;
+            padding: 20px;
+        }
+        header {
+            text-align: center;
+            background-color: #4CAF50;
+            color: white;
+            padding: 20px;
+        }
+        main {
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            max-width: 600px;
+            margin: 20px auto;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+        …
+[09:26, 12/10/2024] ~: echo "# my-website2" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Abilmansur291/my-website2.git
+git push -u origin main
+[09:26, 12/10/2024] ~: git remote add origin https://github.com/Abilmansur291/my-website2.git
+git branch -M main
+git push -u origin main
+[09:30, 12/10/2024] ~: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GitHub Demo Page</title>
+ </style>
+</head>
+<body>
+    <header>
+        <h1>Менің өзім туралы парақшам</h1>
+    </header>
+    <main>
+        <h2>Өзім туралы</h2>
+        <p><strong>Аты-жөні:</strong> Абдразах Әбілмансур</p>
+        <p><strong>Курс:</strong> 1</p>
+        <p><strong>Туылған жері:</strong> Түркістан облысы, Арыс қаласы</p>
+        <p><strong>Мамандық:</strong> 6В05302 Физика</p>
+        <h2>Менің жұмысым</h2>
+        <p>Менің жұмысымды көру үшін төмендегі сілтемені басыңыз:</p>
+    <!-- Батырма -->
+    <a href="https://abdrazakhabilmansu.wixsite.com/mone-1" class="button">Visit Example</a>
+    </main>
+</body>
+</html>
+[09:51, 12/10/2024] ~: <!DOCTYPE html>
+<html lang="kk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Менің Портфолиом</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 1rem 0;
+            text-align: center;
+        }
+        nav {
+            margin: 10px 0;
+            text-align: center;
+        }
+        nav a {
+            text-decoration: none;
+            color: #fff;
+            margin: 0 10px;
+        }
+        section {
+            padding: 2rem;
+        }
+        .container {
+            max-width: 1200px;
+            margin: auto;
+        }
+        .projects {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+        }
+        .project {
+            background-color: #fff;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            padding: 1rem;
+            flex: 1 1 calc(33.333% - 20px);
+        }
+        footer {
+            text-align: center;
+            padding: 1rem 0;
+            background-color: #333;
+            color: #fff;
+        }
+        .button {
+            display: inline-block;
+            padding: 10px 20px;
+            font-size: 16px;
+            color: #fff;
+            background-color: #007bff;
+            border: none;
+            border-radius: 5px;
+            text-decoration: none;
+            text-align: center;
+            cursor: pointer;
+        }
+        .button:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Абдразах Әбілмансурдың Портфолиосы</h1>
+        <nav>
+            <a href="#about">Өзім туралы</a>
+            <a href="#projects">Жобалар</a>
+            <a href="#contact">Байланыс</a>
+        </nav>
+    </header>
+    <section id="about" class="container">
+        <h2>Өзім туралы</h2>
+        <p>Мен Абдразах Әбілмансур, студент және болашақ IT маманымын. Мен ақпараттық технологиялар саласында білім алып жатырмын және өзімнің дағдыларымды жақсарту үшін әртүрлі жобалармен айналысамын.</p>
+    </section>
+    <section id="projects" class="container">
+        <h2>Менің Жобаларым</h2>
+        <div class="projects">
+            <div class="project">
+                <h3>Жоба 1: Веб-сайт жасау</h3>
+                <p>Бұл менің алғашқы веб-сайт жобам. HTML, CSS және JavaScript қолданылды.</p>
+            </div>
+            <div class="project">
+                <h3>Жоба 2: Мобильді қолданба</h3>
+                <p>Android платформасы үшін қарапайым қолданба жасап көрдім.</p>
+            </div>
+            <div class="project">
+                <h3>Жоба 3: Python скрипттері</h3>
+                <p>Деректерді өңдеу және талдау үшін Python тілінде скрипт жаздым.</p>
+            </div>
+        </div>
+    </section>
+    <section id="contact" class="container">
+        <h2>Байланыс</h2>
+        <p>Сіз менімен келесі ақпарат арқылы хабарласа аласыз:</p>
+        <ul>
+            <li>Телефон: 87052800982</li>
+            <li>Email: abdrazakhabilmansur@gmail.com</li>
+        </ul>
+        <"https://abdrazakhabilmansu.wixsite.com/mone-1 class="button">Менің Wix-сайтым</a>
+    </section>
+    <footer>
+        <p>&copy; 2024 Абдразах Әбілмансур. Барлық құқықтар қорғалған.</p>
+    </footer>
+</body>
+</html>
